@@ -136,7 +136,6 @@ clear
 cd
 sudo touch /usr/local/bin/Zabaleta_check_URL.sh
 ls -l /usr/local/bin/
-sudo chmod 755 /usr/local/bin/Tomasello_check_URL.sh
 sudo chmod 755 /usr/local/bin/Zabaleta_check_URL.sh
 sudo vim /usr/local/bin/Zabaleta_check_URL.sh
 ls -l /tmp/head-check/
